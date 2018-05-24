@@ -8,6 +8,6 @@ namespace GitLearn
 
     public class Class2
     {
-
+        string NewCommit;
     }
 }
